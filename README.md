@@ -13,10 +13,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreiraashi&show_icons=true&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraashi&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-
-<!--Cobrinha-->
-![Snake animation](https://github.com/seu-usuário-aqui/ferreiraashi/blob/output/github-contribution-grid-snake.svg)
           
           
           
