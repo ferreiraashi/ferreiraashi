@@ -14,7 +14,7 @@
 
 <!--Redes Sociais-->
 <div align="center">
-          <a href="https://www.linkedin.com/in/ferreiraashi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          <a href="https://www.linkedin.com/in/ferreiraashi">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
           </a>
           <a href="https://instagram.com/ferreiraashi?igshid=NGVhN2U2NjQ0Yg==">
