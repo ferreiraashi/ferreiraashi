@@ -17,7 +17,7 @@
           <a href="https://www.linkedin.com/in/ferreiraashi">
           <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
           </a>
-          <a href="ferreiraashi@gmail.com"> 
+          <a href="https://criarmeulink.com.br/u/1700318597"> 
           <img src="https://img.shields.io/badge/-ferreiraashi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white"/>
           </a>
 </div>
