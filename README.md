@@ -15,13 +15,10 @@
 <!--Redes Sociais-->
 <div align="center">
           <a href="https://www.linkedin.com/in/ferreiraashi">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
           </a>
-          <a href="https://instagram.com/ferreiraashi?igshid=NGVhN2U2NjQ0Yg==">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-          </a>
-           <a href="https://open.spotify.com/user/ff7vinbqt23ass08uik508rx4?si=uxdqUvE1Rmy7isAkfbMn9g">
-          <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+          <a href="ferreiraashi@gmail.com"> 
+          <img src="https://img.shields.io/badge/-ferreiraashi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white"/>
           </a>
 </div>
 
@@ -36,9 +33,8 @@
 </div>
 
 <br>
-<br>
 
-<h2 align="center"> 📈Statistics from my GITHUB </h2>
+<h2 align="center"> 📈Statistics </h2>
 <div align="center">
 <a href="https://github.com/ferreiraashi">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreiraashi&show_icons=true&theme=radical"/>
