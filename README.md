@@ -1,9 +1,6 @@
 <!--Head-->
 <h1 align="center"> <b>Hello World!🌎</b> </h1>
 
-<!--imagem-->
-<img src="https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966">
-
 <!--About me-->
 
 <h2 align="center"> 🌟Sobre mim </h2>
