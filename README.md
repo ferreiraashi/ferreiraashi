@@ -1,10 +1,6 @@
 <!--Head-->
 <h1 align="center"> <b>Hello World!🌎</b> </h1>
 
-<!--About me-->
-
-<h2 align="center"> 🌟Sobre mim </h2>
-
 <p align="center"> Olá, me chamo Washington, sou estudante do curso de Engenharia de Software no Instituto Federal do Amazonas (IFAM-CMZL). Tenho uma grande paixão pelo Desenvolvimento Web, uma área na qual estou em constante busca por aperfeiçoamento. </p>
 
 <br>
