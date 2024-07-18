@@ -16,10 +16,3 @@
 </div>
 
 <br>
-
-<h2 align="center"> 📈Statistics </h2>
-<div align="center">
-<a href="https://github.com/ferreiraashi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreiraashi&show_icons=true&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraashi&layout=compact&langs_count=7&theme=radical"/>
-</div>
