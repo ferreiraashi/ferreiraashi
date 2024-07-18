@@ -5,14 +5,6 @@
 
 <br>
 
-<!--Redes Sociais-->
-<div align="center">
-          <a href="https://www.linkedin.com/in/ferreiraashi">
-          <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
-          </a>
-          <img src="https://img.shields.io/badge/-ferreiraashi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white"/>
-</div>
-
 <br>
 
 <h2 align="center"> 🦾 Hard Skills </h2>
