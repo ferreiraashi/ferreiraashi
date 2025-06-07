@@ -11,7 +11,7 @@
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── /fullStack developer and mobile developer
-    │   ├── /graduate software engineer
+    │   ├── /software engineer student
     │
     ├── /os
     │   ├── /linux
@@ -30,7 +30,8 @@
     │
     └── /learning
         ├── vue.js
-        ├── next.js
+        ├── AWS
+        ├── Golang
         
   </tr>
 </table>
