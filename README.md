@@ -10,7 +10,7 @@
     │
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── /fullStack developer and mobile developer
+    │   ├── /fullStack developer
     │   ├── /software engineer student
     │
     ├── /os
