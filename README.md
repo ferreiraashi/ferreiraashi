@@ -1,13 +1,22 @@
-![Retro Terminal](https://i.imgur.com/ehzmrh3.jpeg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=10&color=F7F7F7&center=true&width=435&lines=Hi+there;I'm+Washington;A+fuck+Software+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=exo+2&pause=10&color=FFFFFF&center=true&width=435&lines=Hi+there;I'm+Washington;A+fuck+Software+Developer)](https://git.io/typing-svg)
+## About Me
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ferreiraashi&theme=dark-minimalist&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-
+I am a passionate **software developer** with a strong love for **Golang** and **mobile application development**.  
+I deeply care about building well-structured and scalable projects, with a strong focus on **software architecture** and clean design principles.  
 
 <!--START_SECTION:waka-->
 
