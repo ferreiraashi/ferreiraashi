@@ -19,7 +19,8 @@ I deeply care about building well-structured and scalable projects, with a stron
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 min           ████████████████░░░░░░░░░   63.72 %
+HTML         0 secs          █████████░░░░░░░░░░░░░░░░   36.28 %
 ```
 
 <!--END_SECTION:waka-->
