@@ -19,11 +19,11 @@ I deeply care about building well-structured and scalable projects, with a stron
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    6 hrs 20 mins   ███████████▒░░░░░░░░░░░░░   45.80 %
-Go            5 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   40.08 %
-YAML          58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-HTML          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-JSON          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Go           6 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.74 %
+TypeScript   4 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.42 %
+YAML         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+SQL          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
