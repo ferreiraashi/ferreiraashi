@@ -19,7 +19,7 @@ I deeply care about building well-structured and scalable projects, with a stron
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go   49 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
